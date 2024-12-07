@@ -200,7 +200,7 @@ export default function page() {
 <div className="w-full sm:h-[500px] lg:h-[300px] flex justify-center items-center mt-24 ml-16 ">
   <div className="w-full sm:w-[100%] lg:w-[70%] flex flex-col md:flex-row gap-y-4 sm:items-center lg:justify-evenly gap-x-4">
     {/* First block */}
-    <div className="w-[260px] h-[130px] ml-7  flex justify-center items-center flex-col gap-y-3">
+    <div className="w-[260px] h-[130px]   flex justify-center items-center flex-col gap-y-3">
       <div className="w-[50px] h-[50px] rounded-full bg-black flex justify-center items-center">
         <span>
           <svg
@@ -238,7 +238,7 @@ export default function page() {
     </div>
 
     {/* Second block */}
-    <div className="w-[260px] h-[130px] ml-7 flex justify-center items-center flex-col gap-y-3">
+    <div className="w-[260px] h-[130px]  flex justify-center items-center flex-col gap-y-3">
       <div className="w-[50px] h-[50px] rounded-full bg-black flex justify-center items-center">
         <span>
           <svg
@@ -274,7 +274,7 @@ export default function page() {
     </div>
 
     {/* Third block */}
-    <div className="w-[260px] h-[130px] ml-7 lg:mr-48 flex justify-center items-center flex-col gap-y-3 md:mr-16">
+    <div className="w-[260px] h-[130px]  lg:mr-48 flex justify-center items-center flex-col gap-y-3 md:mr-3">
       <div className="w-[50px] h-[50px] rounded-full bg-black flex justify-center items-center">
         <span>
           <svg
