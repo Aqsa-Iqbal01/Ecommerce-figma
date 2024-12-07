@@ -115,16 +115,16 @@ const Header = () => {
         </div>
         <ul className="flex flex-col items-center space-y-4 p-6">
           <li className="cursor-pointer text-black hover:text-gray-700">
-            Home
+          <Link href="/">Home</Link>
           </li>
           <li className="cursor-pointer text-black hover:text-gray-700">
-            Contact
+          <Link href="/contact">Contact</Link>
           </li>
           <li className="cursor-pointer text-black hover:text-gray-700">
-            About
+          <Link href="/about">About</Link>
           </li>
           <li className="cursor-pointer text-black hover:text-gray-700">
-            Signup
+          <Link href="/signup">SignUp</Link>
           </li>
         </ul>
       </div>
